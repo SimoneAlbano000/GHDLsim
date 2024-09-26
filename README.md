@@ -14,5 +14,5 @@ Once the MSYS2 software has been installed correctly, the script will automatica
 ### How to use GHDLsim
 
 In order to start the simulation, the name of the top-level entity of the testbench file (that must match the name of the testbench file itself)
-needs to be provides, along with the simulation time expressed in nanoseconds. If the code contains no errors, GTKWave will automatically open 
+needs to be provided, along with the simulation time expressed in nanoseconds. If the code contains no errors, GTKWave will automatically open 
 allowing the user to inspect all the signals.
