@@ -10,7 +10,7 @@ that are imported in the testbench will be automatically linked and compiled to 
 In order to function correctly, the script needs the GHDL simulation software and the GTKWave signal visualizer to be installed.
 They can be installed under the Windows enviroment using the MSYS2 tool, that can be found at the following link: https://www.msys2.org/  
 Once the MSYS2 software has been installed correctly, the script will automatically download and install all the required packages.
-After the installation process is complete, the only operation that needs to be manually done, is to add to the "Path" enviroment variable, 
+After the installation process is complete, the only operation that needs to be manually done is to add to the "Path" enviroment variable 
 the path of the two installed software, which is usually the following: C:\msys64\usr\bin\
 
 ### How to use GHDLsim
